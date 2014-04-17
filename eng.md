@@ -1,11 +1,12 @@
+# Making Time for Side Projects
+
 **A note from the editors:** Rachel Andrew knows a thing or two about launching
 products. Read more of her insights in her March 2014 cover story for
 [net magazine][1].
 
-<figure class="quote">
-> Goals are dreams with deadlines<figcaption>Diana Scharf Hunt</figcaption></
-figure
-> 
+> Goals are dreams with deadlines
+
+*Diana Scharf Hunt*
 
 Last time, [I encouraged you to think about creating side projects][2] as a way
 to diversify your income. Yet with a busy job or freelance business, a family, 
@@ -14,24 +15,25 @@ these additional projects. This time I’m going to share some tactics for findi
 time to dedicate to additional projects, and the motivation to actually work on 
 them.
 
-## Defining your goals<aside class="content-minutiae"></aside>
+
+## Defining your goals
 
 There is power in setting a goal, writing it down, and putting a date on it. We
 can all spend a lot of time musing over that book we would like to write or that
 product we would like to build. Until we actually draw a line in the sand and 
 commit to launching it, it will likely remain as a thing we pick away at when we
-“have the time.
-”
+“have the time.”
 
 Choose your goal, define exactly what it is you are going to create, then
 decide on your launch date.
+
 
 ## Planning the steps to reach that goal on that date
 
 Once you have a goal with a date, you can start to plan your time working back
 from that end date to today. If your goal is quite chunky and your end date some
 months in the future, break down the tasks into monthly phases of work. Check 
-out Brian Casel’s concept of the[Cascading To Do List][3] for a description of
+out Brian Casel’s concept of the [Cascading To Do List][3] for a description of
 how to break down a large goal into smaller sections.
 
 This is where you need to be realistic. You are going to have limited hours to
@@ -52,21 +54,23 @@ your completion date?
 I would always favor the first approach where possible. Be as ruthless as you
 can in cutting any features from your product that can wait until a phase two. I
 ’ve written in more detail on the importance of starting small and developing 
-your product based on user feedback over on[Smashing Magazine][4]. That method
+your product based on user feedback over on [Smashing Magazine][4]. That method
 won’t necessarily work for all products; however, remember that you can also 
 simplify the other tasks you need to get to launch—for example, using a service 
-that delivers your software (such as[Gumroad][5]) rather than building your own
+that delivers your software (such as [Gumroad][5]) rather than building your own
 payment and delivery solution.
 
-## Finding the time<figure class="quote">
+
+## Finding the time
 
 > Don’t say you don’t have enough time. You have exactly the same number of
 > hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother 
 > Teresa, Leonardo da Vinci, Thomas Jefferson, and Albert Einstein.
-><figcaption>Life’s Little Instruction Book, compiled by H. Jackson Brown, Jr
-.</figcaption></figure>
-We find the time for those things we place importance on. “Finding the time
-” often relies upon having a goal that is meaningful and important to you; a 
+
+*Life’s Little Instruction Book, compiled by H. Jackson Brown, Jr.*
+
+We find the time for those things we place importance on. “Finding the time”
+often relies upon having a goal that is meaningful and important to you; a 
 goal that is valuable enough to make a priority. If you consistently don’t have 
 time to make progress on your project, take a reality check: is this something 
 you really want to achieve? If you feel it really is a priority for you, move 
@@ -167,6 +171,7 @@ that you will forget a great idea, then start making a list of things to
 investigate later. You can add items to that list and revisit it post launch to 
 plan your next phase.
 
+
 ## Realistic schedules and good planning are the silver bullet
 
 When people ask me how I get so much stuff done, I think they assume I have
@@ -178,24 +183,22 @@ to blame.
 When I am working to focused goals, on a well planned schedule, I find that
 there is usually time to get everything done. I’m also happy to do other things,
 as I know that the right amount of progress is being made towards my goal. As 
-Getting Things Done guru David Allen[says][8],<figure class="quote">
+Getting Things Done guru David Allen [says][8],
 
-> You can only feel good about what you’re not doing when you know what you
-> ’re not doing.
-></figure>
+> You can only feel good about what you’re not doing when you know what you’re
+> not doing.
+
 Unless you have a clear schedule taking you from today to launch, you will
 either drift along and never launch or constantly worry and feel bad about any 
 time you spend not working on your product. Define your goal, and create a plan 
-to get from here to there today.**Then roll up your sleeves and work.**
+to get from here to there today. **Then roll up your sleeves and work.**
 
 
  [1]: http://rachelandrew.co.uk/archives/2014/01/28/net-magazine-pro-ways-to-launch-a-product/
  [2]: http://alistapart.com/column/your-side-project-as-insurance-policy
  [3]: http://casjam.com/the-cascading-to-do-list-or-how-to-get-big-things-done/
-
  [4]: http://www.smashingmagazine.com/2013/11/08/building-a-successful-product-start-small-and-listen/
  [5]: https://gumroad.com/
-
  [6]: http://www.rachelandrew.co.uk/archives/2013/11/11/making-your-product-a-first-class-citizen/
  [7]: http://fancyhands.com
  [8]: http://www.davidco.com/newsletters/archive/1111.html
